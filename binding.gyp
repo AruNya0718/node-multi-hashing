@@ -14,6 +14,7 @@
                 "groestl.c",
                 "blake.c",
                 "fugue.c",
+                "neoscrypt.c",
                 "qubit.c",
                 "hefty1.c",
                 "shavite3.c",
